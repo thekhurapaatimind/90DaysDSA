@@ -10,4 +10,5 @@ Day 6 : 09/12/21, Started Backtracking and did few problems on recursion<br>
 Day 7 : 10/12/21, Watched videos related to DSA on Code With Harry<br>
 Day 8 : 11/12/21, Continuing the Recursion and back tracking track on HackerEarth
 <br>Day 9 : 12/12/21, Recursion/Backtracking<br>
-Day 10 : 13/12/21, Summarized Recursion and read the reamaining theory.
+Day 10 : 13/12/21, Summarized Recursion and read the reamaining theory.<br>
+Day 11 : 14/12/21, Started Arrays Track on HackerEarth
