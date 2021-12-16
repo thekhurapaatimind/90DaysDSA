@@ -12,4 +12,5 @@ Day 8 : 11/12/21, Continuing the Recursion and back tracking track on HackerEart
 <br>Day 9 : 12/12/21, Recursion/Backtracking<br>
 Day 10 : 13/12/21, Summarized Recursion and read the reamaining theory.<br>
 Day 11 : 14/12/21, Started Arrays Track on HackerEarth<br>
-Day 12 : 15/12/21, Arrays/Vectors
+Day 12 : 15/12/21, Arrays/Vectors<br>
+Day 13 : 16/112/21, Arrays on GFG
