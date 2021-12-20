@@ -14,4 +14,8 @@ Day 10 : 13/12/21, Summarized Recursion and read the reamaining theory.<br>
 Day 11 : 14/12/21, Started Arrays Track on HackerEarth<br>
 Day 12 : 15/12/21, Arrays/Vectors<br>
 Day 13 : 16/12/21, Arrays on GFG<br>
-Day 14 : 17/112/21, Medium level Arrays on GFG<br>
+Day 14 : 17/12/21, Medium level Arrays on GFG<br>
+Day 15 : 18/12/21, Arrays/Vectors<br>
+Day 16 : 19/12/21, Arrays/Vectors<br>
+Day 17 : 20/12/21, Stacks<br>
+
