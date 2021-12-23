@@ -19,4 +19,5 @@ Day 15 : 18/12/21, Arrays/Vectors<br>
 Day 16 : 19/12/21, Arrays/Vectors<br>
 Day 17 : 20/12/21, Stacks<br>
 Day 18 : 21/12/21, Stacks<br>
-Day 18 : 22/12/21, CP
+Day 19 : 22/12/21, CP<br>
+Day 20 : 23/12/21, Stacks on GFG
