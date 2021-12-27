@@ -23,5 +23,6 @@ Day 19 : 22/12/21, CP<br>
 Day 20 : 23/12/21, Stacks on GFG<br>
 Day 21 : 24/12/21, Competitive Programming<br>
 Day 22 : 25/12/21, Competitive Programming<br>
-Day 23 : 26/12/21, Competitive Programming
+Day 23 : 26/12/21, Competitive Programming<br>
+Day 24 : 27/12/21, Strings
 
