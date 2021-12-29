@@ -25,5 +25,6 @@ Day 21 : 24/12/21, Competitive Programming<br>
 Day 22 : 25/12/21, Competitive Programming<br>
 Day 23 : 26/12/21, Competitive Programming<br>
 Day 24 : 27/12/21, Strings<br>
-Day 25 : 28/12/21, Started Linked Lists
+Day 25 : 28/12/21, Started Linked Lists<br>
+Day 26 : 29/12/21, Linked Lists Practice Questions on GFG<br>
 
