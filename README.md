@@ -30,6 +30,7 @@ Day 25 : 28/12/21, Started Linked Lists<br>
 Day 26 : 29/12/21, Linked Lists Practice Questions on GFG<br>
 Day 27 : 30/12/21, Linked Lists Practice Questions on GFG<br>
 Day 28 : 31/12/21, Linked Lists Practice Questions on GFG<br>
-Day 29 : 01/01/22, CP (Cheat Day)
+Day 29 : 01/01/22, CP (Cheat Day)<br>
+Day 30 : 02/01/22, Linked Lists Summary
 
 
