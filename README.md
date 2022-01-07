@@ -35,6 +35,7 @@ Day 30 : 02/01/22, Linked Lists Summary<br>
 Day 31 : 03/01/22, Code With Harry Videos and examples<br>
 Day 32 : 04/01/22, Searching of different Data Structures<br>
 Day 33 : 05/01/22, Sorting<br>
-Day 34 : 06/01/22, Sorting
+Day 34 : 06/01/22, Sorting<br>
+Day 35 : 07/01/22, Sorting on complex structures
 
 
