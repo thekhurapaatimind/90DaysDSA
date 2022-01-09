@@ -37,6 +37,7 @@ Day 32 : 04/01/22, Searching of different Data Structures<br>
 Day 33 : 05/01/22, Sorting<br>
 Day 34 : 06/01/22, Sorting<br>
 Day 35 : 07/01/22, Sorting on complex structures<br>
-Day 36 : 08/01/22, Merge sort and quick sort
+Day 36 : 08/01/22, Merge sort and quick sort<br>
+Day 37 : 09/01/22, Hashmaps
 
 
