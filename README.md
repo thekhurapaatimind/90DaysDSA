@@ -40,6 +40,7 @@ Day 35 : 07/01/22, Sorting on complex structures<br>
 Day 36 : 08/01/22, Merge sort and quick sort<br>
 Day 37 : 09/01/22, Hashmaps<br>
 Day 38 : 10/01/22, Hashmaps<br>
-Day 39 : 11/01/22, Hashmaps
+Day 39 : 11/01/22, Hashmaps<br>
+Day 40 : 12/01/22, Learnt the concept of trees
 
 
