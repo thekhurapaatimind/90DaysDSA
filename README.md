@@ -43,7 +43,9 @@ Day 38 : 10/01/22, Hashmaps<br>
 Day 39 : 11/01/22, Hashmaps<br>
 Day 40 : 12/01/22, Learnt the concept of trees<br>
 Day 41 : 13/01/22, Trees<br>
-Day 42 : 14/01/22, Studied Tree Traversals
+Day 42 : 14/01/22, Studied Tree Traversals<br>
+Day 43 : 15/01/22, Introduction to Sliding Windows
+
 
 
 
