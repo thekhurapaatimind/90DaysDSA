@@ -45,7 +45,8 @@ Day 40 : 12/01/22, Learnt the concept of trees<br>
 Day 41 : 13/01/22, Trees<br>
 Day 42 : 14/01/22, Studied Tree Traversals<br>
 Day 43 : 15/01/22, Introduction to Sliding Windows<br>
-Day 44 : 16/01/22, Sliding Windows
+Day 44 : 16/01/22, Sliding Windows<br>
+Day 45 : 17/01/22, Heaps
 
 
 
