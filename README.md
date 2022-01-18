@@ -46,7 +46,8 @@ Day 41 : 13/01/22, Trees<br>
 Day 42 : 14/01/22, Studied Tree Traversals<br>
 Day 43 : 15/01/22, Introduction to Sliding Windows<br>
 Day 44 : 16/01/22, Sliding Windows<br>
-Day 45 : 17/01/22, Heaps
+Day 45 : 17/01/22, Heaps<br>
+Day 46 : 18/01/22, Graphs
 
 
 
