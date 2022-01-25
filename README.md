@@ -53,7 +53,8 @@ Day 48 : 20/01/22, DFS<br>
 Day 49 : 21/01/22, More questions on BJS & DFS<br>
 Day 50 : 22/01/22, Dijkstra<br>
 Day 51 : 23/01/22, Floyd Warshall<br>
-Day 52 : 24/01/22, Minimum Spanning Tree
+Day 52 : 24/01/22, Minimum Spanning Tree<br>
+Day 53 : 25/01/22, Minimum Spanning Tree
 
 
 
