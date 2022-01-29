@@ -55,7 +55,10 @@ Day 50 : 22/01/22, Dijkstra<br>
 Day 51 : 23/01/22, Floyd Warshall<br>
 Day 52 : 24/01/22, Minimum Spanning Tree<br>
 Day 53 : 25/01/22, Minimum Spanning Tree<br>
-Day 54 : 26/01/22, Kosaraju's Algorithm
+Day 54 : 26/01/22, Kosaraju's Algorithm<br>
+Day 55 : 27/01/22, Topological Sort<br>
+Day 56 : 28/01/22, Bellman Ford<br>
+Day 57 : 29/01/22, DSU
 
 
 
