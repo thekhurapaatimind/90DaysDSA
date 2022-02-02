@@ -61,7 +61,8 @@ Day 56 : 28/01/22, Bellman Ford<br>
 Day 57 : 29/01/22, DSU<br>
 Day 58 : 30/01/22, DSU by Rank<br>
 Day 59 : 31/01/22, DP<br>
-Day 60 : 01/02/22, DP
+Day 60 : 01/02/22, DP<br>
+Day 61 : 02/02/22, DP
 
 
 
