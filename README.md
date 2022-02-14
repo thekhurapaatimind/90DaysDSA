@@ -72,7 +72,9 @@ Day 67 : 08/02/22, DP<br>
 Day 68 : 09/02/22, DP<br>
 Day 69 : 10/02/22, DP<br>
 Day 70 : 11/02/22, DP<br>
-Day 71 : 12/02/22, Started OOPS
+Day 71 : 12/02/22, Started OOPS<br>
+Day 72 : 13/02/22, OOPS<br>
+Day 73 : 14/02/22, OOPS
 
 
 
