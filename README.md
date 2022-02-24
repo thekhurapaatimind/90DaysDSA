@@ -79,8 +79,12 @@ Day 74 : 15/02/22, OOPS<br>
 Day 75 : 16/02/22, OOPS<br>
 Day 76 : 17/02/22, OOPS<br>
 Day 77 : 18/02/22, OOPS<br>
-Day 78 : 
-
+Day 78 : 19/02/22, OOPS<br>
+Day 79 : 20/02/22, OOPS<br>
+Day 80 : 21/02/22, OOPS<br>
+Day 81 : 22/02/22, Number Theory<br>
+Day 82 : 23/02/22, Number Theory<br>
+Day 83 : 24/02/22, Number Theory
 
 
 
