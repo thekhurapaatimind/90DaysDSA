@@ -87,7 +87,9 @@ Day 82 : 23/02/22, Number Theory<br>
 Day 83 : 24/02/22, Number Theory<br>
 Day 84 : 25/02/22, Bit Manipulation<br>
 Day 85 : 26/02/22, Bit Manipulation<br>
-Day 86 : 27/02/22, Bit Manipulation track on HackerEarth
+Day 86 : 27/02/22, Bit Manipulation track on HackerEarth<br>
+Day 87 : 28/02/22, Miscellaneous Problems<br>
+Day 88: 01/03/22, Miscellaneous Problems
 
 
 
