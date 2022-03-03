@@ -90,7 +90,9 @@ Day 85 : 26/02/22, Bit Manipulation<br>
 Day 86 : 27/02/22, Bit Manipulation track on HackerEarth<br>
 Day 87 : 28/02/22, Miscellaneous Problems<br>
 Day 88: 01/03/22, Miscellaneous Problems<br>
-Day 89: 02/03/22, Miscellaneous Problems
+Day 89: 02/03/22, Miscellaneous Problems<br>
+Day 90: 03/03/22, Challenge Completed😊😊😊🎉
+
 
 
 
